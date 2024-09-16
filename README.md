@@ -19,3 +19,6 @@ A general website which takes some text input and returns the number of vowels p
 
 5. **Obtain the Public URL:**
    - Copy the public URL for the index file. This URL is the live link for your static website.
+
+# Sample deployed link for this project 
+https://myprojectsinaws.s3.amazonaws.com/vowelcounter/index.html
