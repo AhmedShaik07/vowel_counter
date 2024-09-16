@@ -1,8 +1,6 @@
 # vowel_counter
 A general website which takes some text input and returns the number of vowels present in the given text.!
 
-# deployed using AWS S3 service
-This project is deployed using AWS Simple Storage Service service
 
 # Deployement details
 ## Steps to Host a Static Website on AWS S3
